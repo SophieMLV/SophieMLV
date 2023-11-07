@@ -1,5 +1,5 @@
 ### Hi there
-- 🔭 astrophysics working in cosmology
+- 🔭 astrophysicist working in cosmology
 
 <!--
 **SophieMLV/SophieMLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
